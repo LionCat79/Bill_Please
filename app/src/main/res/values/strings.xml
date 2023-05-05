@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="enterAmount">Enter Amount</string>
+    <string name="enterPax">Enter Number of Diners</string>
+    <string name="enterDiscount">Enter Discount</string>
+</resources>
